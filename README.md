@@ -14,6 +14,8 @@
 - **Menu Improvements**: Addition of options to select the person involved in the confrontation (e.g., public member, spouse, parent) and the intensity of the response (e.g., low, medium, high).
 - **Realistic Scenarios**: The confrontation scenarios should reflect more realistic situations, such as being criticized at work, arguments with a spouse, and family disagreements.
 - **NLP Buzz Word Analysis**: Using NLP to make reviews instead of GPT.
+- **Actions**: Allow user to define actions.
+- **Continuality and Argumentative Scenario Follow-up**: Memory for system.
 
 ## Requirements:
 - Python 3.x
