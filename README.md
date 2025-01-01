@@ -14,7 +14,7 @@
 - **Menu Improvements**: Addition of options to select the person involved in the confrontation (e.g., public member, spouse, parent) and the intensity of the response (e.g., low, medium, high).
 - **Realistic Scenarios**: The confrontation scenarios should reflect more realistic situations, such as being criticized at work, arguments with a spouse, and family disagreements.
 - **User-Defined Scenarios**: Ability for user to update system with more relative scanerios to their every-day situations.
-- **NLP Buzz Word Analysis**: Using NLP to make reviews instead of GPT. Based on types of rebutal: if the user wishes to be witty or wholesome.
+- **NLP Buzz Word Analysis**: Using NLP to make reviews instead of GPT. Based on types of rebutal: if the user wishes to be witty or wholesome. Metrics.
 - **Actions**: Allow user to define actions.
 - **Continuality and Argumentative Scenario Follow-up**: Memory for system.
 - **Wisdom and Psychology Tips**: Transistions into researched points and proverbs that help the user to gain more insights.
