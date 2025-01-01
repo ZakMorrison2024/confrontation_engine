@@ -16,6 +16,7 @@
 - **NLP Buzz Word Analysis**: Using NLP to make reviews instead of GPT.
 - **Actions**: Allow user to define actions.
 - **Continuality and Argumentative Scenario Follow-up**: Memory for system.
+- **Wisdom and Psychology Tips**: Transistions into researched points and proverbs that help the user to gain more insights.
 
 ## Requirements:
 - Python 3.x
