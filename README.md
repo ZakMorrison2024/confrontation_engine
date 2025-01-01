@@ -2,7 +2,7 @@
 
 * This Python project simulates various confrontation scenarios and allows users to input their responses while receiving feedback through GPT (optionally).
 
-* This project is designed for those with confrontational anexity, for a controlled and relaxed application, where users can atleast practice and gain confidence
+* This project is designed for those with confrontation anxiety, for a controlled and relaxed application, where users can atleast practice and gain confidence
 
 ## Features:
 - **Text-Based Generation**: Draws a scenario and displays for user to read.
