@@ -6,7 +6,7 @@
 
 ## Features:
 - **Text-Based Generation**: Draws a scenario and displays for user to read.
-- **Text Input"": Allows user to draw up their own answers to situations or scenarios.
+- **Text Input**: Allows user to draw up their own answers to situations or scenarios.
 - **GPT Analysis**: Optionally, enable GPT-3 analysis for feedback on how well you handled the confrontation.
 
 ## Future Updates:
